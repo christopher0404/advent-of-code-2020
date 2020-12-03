@@ -1,2 +1,12 @@
-# advent-of-code-2020
-My solutions to Advent of Code in JavaScript.
+# Advent of Code 2020
+
+## What is Advent of Code
+
+[Advent of Code](https://adventofcode.com/) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as a speed contest, interview prep, company training, university coursework, practice problems, or to challenge each other.
+
+You don't need a computer science background to participate - just a little programming knowledge and some problem solving skills will get you pretty far. Nor do you need a fancy computer; every problem has a solution that completes in at most 15 seconds on ten-year-old hardware.
+
+## References
+
+- [Awesome Advent of Code](https://github.com/Bogdanp/awesome-advent-of-code)
+- [Advent of Code | Zero To Mastery](https://aoc.zerotomastery.io/)

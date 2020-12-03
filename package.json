@@ -1,0 +1,27 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "Solutions to Advent of Code 2020 in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopher0404/advent-of-code-2020.git"
+  },
+  "author": "Christopher Chu <ctc2096@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christopher0404/advent-of-code-2020/issues"
+  },
+  "homepage": "https://github.com/christopher0404/advent-of-code-2020#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.14.0",
+    "jest": "^26.6.3"
+  }
+}
